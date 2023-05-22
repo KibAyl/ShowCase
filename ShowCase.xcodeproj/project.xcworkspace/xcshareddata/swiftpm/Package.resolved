@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ytimeteller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KibAyl/YTimeTeller",
+      "state" : {
+        "branch" : "main",
+        "revision" : "fed03053e8b84abfe33d96605acb3de1304bdad1"
+      }
+    }
+  ],
+  "version" : 2
+}
